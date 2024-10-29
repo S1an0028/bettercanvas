@@ -1,239 +1,239 @@
 {
   "better_canvas": {
-    "message": "更好的画布"
+    "message": "Better Canvas"
   },
   "updates": {
-    "message": "更新"
+    "message": "Updates"
   },
   "dark_mode": {
-    "message": "暗色模式"
+    "message": "Dark mode"
   },
   "automatic_dark_mode": {
-    "message": "预定的深色模式"
+    "message": "Scheduled Dark Mode"
   },
   "auto_start_time": {
-    "message": "开始时间"
+    "message": "Start Time"
   },
   "auto_end_time": {
-    "message": "结束时间"
+    "message": "End Time"
   },
   "edit_dark_mode": {
-    "message": "深色模式"
+    "message": "Dark Mode"
   },
   "enter_url": {
-    "message": "您的画布网址:"
+    "message": "Your Canvas url:"
   },
   "card_grades": {
-    "message": "卡牌等级"
+    "message": "Card Grades"
   },
   "gradient_cards": {
-    "message": "渐变卡"
+    "message": "Gradient Cards"
   },
   "condensed_cards": {
-    "message": "浓缩卡"
+    "message": "Condensed Cards"
   },
   "disable_color": {
-    "message": "禁用颜色叠加"
+    "message": "Disable Color Overlay"
   },
   "card_assignments": {
-    "message": "卡分配"
+    "message": "Card Assignments"
   },
   "card_customization": {
-    "message": "牌"
+    "message": "Cards"
   },
   "custom_font": {
-    "message": "字体"
+    "message": "Fonts"
   },
   "useddmm": {
-    "message": "使用日/毫米"
+    "message": "Use dd/mm"
   },
   "better_todo": {
-    "message": "更好的待办事项列表"
+    "message": "Better todo list"
   },
   "max_items": {
-    "message": "最大物品数: "
+    "message": "Max Items: "
   },
   "hover_preview": {
-    "message": "将鼠标悬停以预览详细信息"
+    "message": "Hover To Preview Details"
   },
   "hide_completed": {
-    "message": "隐藏已完成"
+    "message": "Hide Completed"
   },
   "24hrformat": {
-    "message": "使用 24 小时格式"
+    "message": "Use 24 hr Format"
   },
   "dashboard_notes": {
-    "message": "仪表板注释"
+    "message": "Dashboard Notes"
   },
   "gpa_calculator": {
-    "message": "平均绩点计算器"
+    "message": "GPA Calculator"
   },
   "gpa_settings": {
-    "message": "平均绩点设置"
+    "message": "GPA Settings"
   },
   "grade_hover": {
-    "message": "仅在悬停时显示"
+    "message": "Show Only On Hover"
   },
   "due": {
-    "message": "到期的"
+    "message": "Due"
   },
   "card_colors": {
-    "message": "卡片颜色"
+    "message": "Card Colors"
   },
   "back": {
-    "message": "后退"
+    "message": "Back"
   },
   "more_options": {
-    "message": "更多选择"
+    "message": "More Options"
   },
   "manual_customization": {
-    "message": "手动定制"
+    "message": "Manual Customization"
   },
   "background_colors": {
-    "message": "背景"
+    "message": "Background"
   },
   "text_colors": {
-    "message": "文本"
+    "message": "Text"
   },
   "full_width": {
-    "message": "仪表板全宽"
+    "message": "Dashboard Full Width"
   },
   "report_issue": {
-    "message": "报告问题"
+    "message": "Report Issue"
   },
   "themes": {
-    "message": "主题"
+    "message": "Themes"
   },
   "move_top": {
-    "message": "移至顶部"
+    "message": "Move To Top"
   },
   "show_past_due": {
-    "message": "显示逾期"
+    "message": "Show Past Due"
   },
   "relative_due_dates": {
-    "message": "相对到期日"
+    "message": "Relative Due Dates"
   },
   "enter_multiple": {
-    "message": "(用逗号输入多个)"
+    "message": "(Enter Multiple With A Comma)"
   },
   "todo_remind": {
-    "message": "待办事项提醒"
+    "message": "Todo Reminders"
   },
   "remlogo": {
-    "message": "删除侧边栏徽标"
+    "message": "Remove Sidebar Logo"
   },
   "hide_feedback": {
-    "message": "隐藏最近的反馈"
+    "message": "Hide Recent Feedback"
   },
   "tab_icons": {
-    "message": "颜色编码选项卡图标"
+    "message": "Color Coded Tab Icons"
   },
   "todo_colors": {
-    "message": "使用卡片颜色"
+    "message": "Use Card Colors"
   },
   "gpa_calc_cumulative": {
-    "message": "显示累积GPA"
+    "message": "Show Cumulative GPA"
   },
   "gpa_calc_weighted": {
-    "message": "显示权重GPA"
+    "message": "Show Weighted GPA"
   },
   "device_dark": {
-    "message": "使用设备暗色模式设置"
+    "message": "Use Device Dark Mode Settings"
   },
   "presets": {
-    "message": "预设值"
+    "message": "Presets"
   },
   "dark_lighter": {
-    "message": "灯光"
+    "message": "Lighter"
   },
   "dark_light": {
-    "message": "亮色的"
+    "message": "Light"
   },
   "dark_default": {
-    "message": "默认设置"
+    "message": "Default"
   },
   "dark_dark": {
-    "message": "深色"
+    "message": "Dark"
   },
   "dark_darker": {
-    "message": "较暗的"
+    "message": "Darker"
   },
   "dark_mint": {
-    "message": "分钟数"
+    "message": "Mint"
   },
   "dark_blue": {
-    "message": "蓝色调"
+    "message": "Blue Tint"
   },
   "dark_burn": {
-    "message": "眼球烧伤"
+    "message": "Eyeball Burn"
   },
   "dark_unicorn": {
-    "message": "独角兽人"
+    "message": "Unicorn"
   },
   "dark_lightmode": {
-    "message": "浅色模式"
+    "message": "Lightmode"
   },
   "dark_catppuccin": {
-    "message": "卡普布辛\n 由天使"
+    "message": "Catppuccin\n By Angel"
   },
   "dark_sage": {
-    "message": "萨比亚\n 通过 LivDoesDevStuf"
+    "message": "Sabia\n By LivDoesDevStuf"
   },
   "dark_pink": {
-    "message": "粉色的\n 通过赛德"
+    "message": "Pink\n By Sayde"
   },
   "dark_coral": {
-    "message": "珊瑚\n 通过 超级奇多"
+    "message": "Coral\n By Superchido"
   },
   "dp_sidebar_text": {
-    "message": "侧边栏文本"
+    "message": "Sidebar Text"
   },
   "dp_sidebar": {
-    "message": "侧边栏"
+    "message": "Sidebar"
   },
   "radio_sidebar_solid": {
-    "message": "坚硬的"
+    "message": "Solid"
   },
   "radio_sidebar_gradient": {
-    "message": "渐变"
+    "message": "Gradient"
   },
   "radio_sidebar_image": {
-    "message": "图片"
+    "message": "Image"
   },
   "dp_background_0": {
-    "message": "主要背景"
+    "message": "Background Main"
   },
   "dp_background_1": {
-    "message": "背景Alt"
+    "message": "Background Alt"
   },
   "dp_background_2": {
-    "message": "其它背景"
+    "message": "Background Other"
   },
   "dp_borders": {
-    "message": "边框"
+    "message": "Borders"
   },
   "dp_links": {
-    "message": "链接"
+    "message": "Links"
   },
   "dp_text_0": {
-    "message": "主要文本"
+    "message": "Text Main"
   },
   "dp_text_1": {
-    "message": "其它文本"
+    "message": "Text Other"
   },
   "dp_text_2": {
-    "message": "文本Alt"
+    "message": "Text Alt"
   },
   "dark_mode_fixer": {
-    "message": "深色模式修复程序 (测试版)"
+    "message": "Dark Mode Fixer (Beta)"
   },
   "dark_mode_fixer_text": {
-    "message": "这将尝试修复当前页面上的任何暗模式间隙。"
+    "message": "This Will Try To Fix Any Dark Mode Gaps On The Current Page."
   },
   "fix_dm_btn": {
-    "message": "去"
+    "message": "Go"
   },
   "fix_dm_text": {
-    "message": "修复程序会自动在这些页面上运行:"
+    "message": "The Fixer Is Automatically Running On These Pages:"
   }
 }
